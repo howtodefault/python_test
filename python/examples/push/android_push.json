@@ -1,0 +1,114 @@
+{
+  "audience_type": "token_list",
+  "platform": "android",
+  "message": {
+    "title": "c#_push_token",
+    "content": "c#_push_token",
+    "accept_time": [
+      {
+        "start": {
+          "hour": "08",
+          "min": "00"
+        }
+      }
+    ],
+    "thread_id": "c#",
+    "thread_sumtext": "c# sdk",
+    "xg_media_resources": "http://www.irunthink.com/data/attachment/portal/201803/17/220624v69o506onn12soud.jpg",
+    "xg_media_audio_resources": "https://v-cdn.zjol.com.cn/277003.mp4",
+    "
+    ios
+    ":{}},"
+    message_type
+    ":"
+    notify
+    ","
+    tag_rules
+    ":[{"
+    tag_items
+    ":[{"
+    tags
+    ":["
+    guangdong
+    ","
+    hunan
+    "],"
+    is_not
+    ":false,"
+    tags_operator
+    ":"
+    OR
+    ","
+    items_operator
+    ":"
+    OR
+    ","
+    tag_type
+    ":"
+    xg_auto_province
+    "},{"
+    tags
+    ":["
+    20200408
+    "],"
+    is_not
+    ":false,"
+    tags_operator
+    ":"
+    OR
+    ","
+    items_operator
+    ":"
+    AND
+    ","
+    tag_type
+    ":"
+    xg_auto_active
+    "}],"
+    is_not
+    ":false,"
+    operator
+    ":"
+    OR
+    "}],"
+    token_li
+    st
+    ":["
+    038f7011515ffff9e8337864873cd83d271c
+    "],"
+    account_list
+    ":["
+    guoqing_a
+    "],"
+    environment
+    ":"
+    dev
+    ","
+    upload_id
+    ":66666,"
+    expire_time
+    ":1200,"
+    multi_pkg
+    ":true,"
+    plan_id
+    ":"
+    15470
+    ","
+    account_push_type
+    ":1,"
+    collapse_id
+    ":66666,"
+    push_speed
+    ":20000,"
+    tpns_online_push_type
+    ":1,"
+    force_collapse
+    ":true,"
+    channel_rules
+    ":[{"
+    channel
+    ":"
+    xm
+    ","
+    disable
+    ":false}]}
